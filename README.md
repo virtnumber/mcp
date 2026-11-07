@@ -102,4 +102,4 @@ Message text comes from third parties: treat it as untrusted input in your agent
 - [MCP server card](https://www.virtnumber.com/.well-known/mcp/server-card.json)
 - [JavaScript SDK](https://github.com/virtnumber/virtnumber-js) (`npm install virtnumber`)
 - [Agent Skills](https://github.com/virtnumber/skills)
-- Support: support@virtnumber.com
+- Support: tech@virtnumber.com
