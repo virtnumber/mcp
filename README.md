@@ -103,5 +103,3 @@ Message text comes from third parties: treat it as untrusted input in your agent
 - [JavaScript SDK](https://github.com/virtnumber/virtnumber-js) (`npm install virtnumber`)
 - [Agent Skills](https://github.com/virtnumber/skills)
 - Support: support@virtnumber.com
-
-Virtnumber is operated by Getcom OU, Tallinn, Estonia.
